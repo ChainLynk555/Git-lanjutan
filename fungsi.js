@@ -7,3 +7,6 @@ console.log(add(1,5));
 
 const multiply = (a, b) => a * b;
 console.log(multiply(5,10));
+
+const divide = (a, b) => a / b;
+console.log(divide(50,10));
