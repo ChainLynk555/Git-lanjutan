@@ -10,3 +10,7 @@ console.log(multiplyNumber(10,10));
 
 const divide = (a, b) => a / b;
 console.log(divide(50,10));
+
+console.log(add(5,5));
+
+print('hello world')
