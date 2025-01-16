@@ -13,5 +13,7 @@ console.log(divide(50,10));
 
 console.log(add(5,5));
 
+console.log(add(10,5));
+
 const mathSin = (Number) => Math.sin(Number);
 console.log(mathSin(10))
